@@ -1,0 +1,21 @@
+html {
+	background: url('images/backgrounds/background.jpg') no-repeat;
+	background-size: 100%;
+}
+a{
+	color:white;
+	font-size:25px;
+}
+div{
+	font-size:20px;
+}
+
+#link1{
+	color:red;
+}
+.link2{
+	color:green;
+}
+#link3{
+	color:blue;
+}
